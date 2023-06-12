@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs"
+    Inherits="ZEYTINYAGI_SEVERIM.MasterPage" %>
+
+    <html lang="en">
+
+    <head runat="server">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title></title>
+        <link rel="stylesheet" href="Content/bootstrap.min.css">
+        <link href="navbar-top-fixed.css" rel="stylesheet">
+        <asp:ContentPlaceHolder ID="head" runat="server">
+        </asp:ContentPlaceHolder>
+    </head>
+
+    <body>
+
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+            <a class="navbar-brand" href="#">
+
+                <img style="width: 32px;" src="Assets/Images/LOGO.png" alt="">
+
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+                aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Index</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Yağ Ekle</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+
+        <main role="main" class="container">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </main>
+
+
+
+
+
+        <asp:ContentPlaceHolder ID="MyScripts" runat="server">
+        </asp:ContentPlaceHolder>
+
+
+        <script type="text/javascript" src="Scripts/jquery-3.7.0.slim.min.js"></script>
+
+        <script type="text/javascript" src="Scripts/bootstrap.min.js"></script>
+
+    </body>
+
+    </html>
