@@ -1,0 +1,144 @@
+{
+  "zeytinyaglari": [
+    {
+      "id": 1,
+      "Adi": "yağ 1",
+      "aciklama": "aaaaaaaaaaa  1",
+      "Foto1": "/Assets/Images/yag1 - Kopya (2).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (3).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (4).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 2,
+      "Adi": "yağ 2",
+      "aciklama": "aaaaaaaaaaa  2",
+      "Foto1": "/Assets/Images/yag1 - Kopya (5).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (6).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (7).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 3,
+      "Adi": "yağ 3",
+      "aciklama": "aaaaaaaaaaa  3",
+      "Foto1": "/Assets/Images/yag1 - Kopya (8).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (9).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (10).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 4,
+      "Adi": "yağ 4",
+      "aciklama": "aaaaaaaaaaa  4",
+      "Foto1": "/Assets/Images/yag1 - Kopya (11).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (12).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (13).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 5,
+      "Adi": "yağ 5",
+      "aciklama": "aaaaaaaaaaa  5",
+      "Foto1": "/Assets/Images/yag1 - Kopya (14).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (15).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (16).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 6,
+      "Adi": "yağ 6",
+      "aciklama": "aaaaaaaaaaa  6",
+      "Foto1": "/Assets/Images/yag1 - Kopya (17).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (18).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (19).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 7,
+      "Adi": "yağ 7",
+      "aciklama": "aaaaaaaaaaa  7",
+      "Foto1": "/Assets/Images/yag1 - Kopya (20).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (21).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (22).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 8,
+      "Adi": "yağ 8",
+      "aciklama": "aaaaaaaaaaa  8",
+      "Foto1": "/Assets/Images/yag1 - Kopya (23).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (24).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (25).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 9,
+      "Adi": "yağ 9",
+      "aciklama": "aaaaaaaaaaa  9",
+      "Foto1": "/Assets/Images/yag1 - Kopya (26).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (27).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (28).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 10,
+      "Adi": "yağ 10",
+      "aciklama": "aaaaaaaaaaa 10",
+      "Foto1": "/Assets/Images/yag1 - Kopya (29).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (30).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (31).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 11,
+      "Adi": "yağ 11",
+      "aciklama": "aaaaaaaaaaa 11",
+      "Foto1": "/Assets/Images/yag1 - Kopya (32).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (33).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (34).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 12,
+      "Adi": "yağ 12",
+      "aciklama": "aaaaaaaaaaa 12",
+      "Foto1": "/Assets/Images/yag1 - Kopya (35).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (36).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (37).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 13,
+      "Adi": "yağ 13",
+      "aciklama": "aaaaaaaaaaa 13",
+      "Foto1": "/Assets/Images/yag1 - Kopya (38).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (39).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (40).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    },
+    {
+      "id": 14,
+      "Adi": "yağ 14",
+      "aciklama": "aaaaaaaaaaa 14",
+      "Foto1": "/Assets/Images/yag1 - Kopya (41).png",
+      "Foto2": "/Assets/Images/yag1 - Kopya (42).png",
+      "Foto3": "/Assets/Images/yag1 - Kopya (43).png",
+      "Fiyat": "56",
+      "KDV": "50"
+    }
+  ]
+}

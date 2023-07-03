@@ -10,13 +10,14 @@
         <title></title>
         <link rel="stylesheet" href="Content/bootstrap.min.css">
         <link href="navbar-top-fixed.css" rel="stylesheet">
+        <link rel="stylesheet" href="sass/css/mainCss.css">
         <asp:ContentPlaceHolder ID="head" runat="server">
         </asp:ContentPlaceHolder>
     </head>
 
-    <body>
+    <body class="thirdlyBackgroundColor">
 
-        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top mainBackgroundColor ">
             <a class="navbar-brand" href="#">
 
                 <img style="width: 32px;" src="Assets/Images/LOGO.png" alt="">
@@ -26,35 +27,41 @@
                 aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="collapse navbar-collapse align-middle" id="navbarCollapse">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Index</a>
+                        <a class="nav-link" href="/Index.aspx">Index</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Yağ Ekle</a>
+                        <a class="nav-link" href="/AddItem.aspx">Yağ Ekle</a>
                     </li>
                 </ul>
             </div>
         </nav>
 
 
-        <main role="main" class="container">
+        <main role="main">
+
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
+
         </main>
 
 
 
 
 
-        <asp:ContentPlaceHolder ID="MyScripts" runat="server">
-        </asp:ContentPlaceHolder>
+        
 
 
         <script type="text/javascript" src="Scripts/jquery-3.7.0.slim.min.js"></script>
 
         <script type="text/javascript" src="Scripts/bootstrap.min.js"></script>
+
+        <script type="text/javascript" src="Assets/angular-1.8.2/angular.min.js"></script>
+
+        <asp:ContentPlaceHolder ID="MyScripts" runat="server">
+        </asp:ContentPlaceHolder>
 
     </body>
 
